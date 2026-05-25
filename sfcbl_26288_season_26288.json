@@ -1,0 +1,53 @@
+{
+  "season_id": 26288,
+  "season_name": "Season 26288",
+  "batting": [],
+  "pitching": [],
+  "fielding": [],
+  "standings": [
+    {
+      "team": "Palm Beach Blazers",
+      "team_id": 52078,
+      "w": "0",
+      "l": "0",
+      "t": "0.000",
+      "pct": null,
+      "gb": "-",
+      "rs": "0-0",
+      "ra": null
+    },
+    {
+      "team": "FOS Eagles",
+      "team_id": 52082,
+      "w": "0",
+      "l": "0",
+      "t": "0.000",
+      "pct": null,
+      "gb": "-",
+      "rs": "0-0",
+      "ra": null
+    },
+    {
+      "team": "Pompano Beach Clippers",
+      "team_id": 52083,
+      "w": "0",
+      "l": "0",
+      "t": "0.000",
+      "pct": null,
+      "gb": "-",
+      "rs": "0-0",
+      "ra": null
+    },
+    {
+      "team": "Florida Barons",
+      "team_id": 52087,
+      "w": "0",
+      "l": "0",
+      "t": "0.000",
+      "pct": null,
+      "gb": "-",
+      "rs": "0-0",
+      "ra": null
+    }
+  ]
+}

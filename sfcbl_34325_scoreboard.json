@@ -1,0 +1,185 @@
+{
+  "season_id": 34325,
+  "season_name": "Scoreboard",
+  "batting": [],
+  "pitching": [],
+  "fielding": [],
+  "standings": [
+    {
+      "team": "Wellington Gators Blue",
+      "team_id": 166405,
+      "w": "0",
+      "l": "0",
+      "t": "0.000",
+      "pct": null,
+      "gb": "-",
+      "rs": "0-0",
+      "ra": "0"
+    },
+    {
+      "team": "Wellington Gators Orange",
+      "team_id": 166406,
+      "w": "0",
+      "l": "0",
+      "t": "0.000",
+      "pct": null,
+      "gb": "-",
+      "rs": "0-0",
+      "ra": "0"
+    },
+    {
+      "team": "Palm Beach Gardens Matador",
+      "team_id": 166407,
+      "w": "0",
+      "l": "0",
+      "t": "0.000",
+      "pct": null,
+      "gb": "-",
+      "rs": "0-0",
+      "ra": "0"
+    },
+    {
+      "team": "Palm Beach Xtreme",
+      "team_id": 166412,
+      "w": "0",
+      "l": "0",
+      "t": "0.000",
+      "pct": null,
+      "gb": "-",
+      "rs": "0-0",
+      "ra": "0"
+    },
+    {
+      "team": "Boynton Beach Buccaneers",
+      "team_id": 166409,
+      "w": "0",
+      "l": "0",
+      "t": "0.000",
+      "pct": null,
+      "gb": "-",
+      "rs": "0-0",
+      "ra": "0"
+    },
+    {
+      "team": "Delray Beach Lightning",
+      "team_id": 166410,
+      "w": "0",
+      "l": "0",
+      "t": "0.000",
+      "pct": null,
+      "gb": "-",
+      "rs": "0-0",
+      "ra": "0"
+    },
+    {
+      "team": "Boca Raton Beach Boys",
+      "team_id": 166411,
+      "w": "0",
+      "l": "0",
+      "t": "0.000",
+      "pct": null,
+      "gb": "-",
+      "rs": "0-0",
+      "ra": "0"
+    },
+    {
+      "team": "West Palm Beach Iguanas",
+      "team_id": 166408,
+      "w": "0",
+      "l": "0",
+      "t": "0.000",
+      "pct": null,
+      "gb": "-",
+      "rs": "0-0",
+      "ra": "0"
+    },
+    {
+      "team": "Hialeah Gardens Lions",
+      "team_id": 166413,
+      "w": "0",
+      "l": "0",
+      "t": "0.000",
+      "pct": null,
+      "gb": "-",
+      "rs": "0-0",
+      "ra": "0"
+    },
+    {
+      "team": "Boca Raton Blazers",
+      "team_id": 166414,
+      "w": "0",
+      "l": "0",
+      "t": "0.000",
+      "pct": null,
+      "gb": "-",
+      "rs": "0-0",
+      "ra": "0"
+    },
+    {
+      "team": "Fort Lauderdale Hooks",
+      "team_id": 166415,
+      "w": "0",
+      "l": "0",
+      "t": "0.000",
+      "pct": null,
+      "gb": "-",
+      "rs": "0-0",
+      "ra": "0"
+    },
+    {
+      "team": "Miami Gardens Makos",
+      "team_id": 166420,
+      "w": "0",
+      "l": "0",
+      "t": "0.000",
+      "pct": null,
+      "gb": "-",
+      "rs": "0-0",
+      "ra": "0"
+    },
+    {
+      "team": "West Boca Snappers",
+      "team_id": 166417,
+      "w": "0",
+      "l": "0",
+      "t": "0.000",
+      "pct": null,
+      "gb": "-",
+      "rs": "0-0",
+      "ra": "0"
+    },
+    {
+      "team": "Pompano Beach Wave",
+      "team_id": 166418,
+      "w": "0",
+      "l": "0",
+      "t": "0.000",
+      "pct": null,
+      "gb": "-",
+      "rs": "0-0",
+      "ra": "0"
+    },
+    {
+      "team": "Coconut Creek Diamond Ducks",
+      "team_id": 166419,
+      "w": "0",
+      "l": "0",
+      "t": "0.000",
+      "pct": null,
+      "gb": "-",
+      "rs": "0-0",
+      "ra": "0"
+    },
+    {
+      "team": "Coconut Creek X Team",
+      "team_id": 166416,
+      "w": "0",
+      "l": "0",
+      "t": "0.000",
+      "pct": null,
+      "gb": "-",
+      "rs": "0-0",
+      "ra": "0"
+    }
+  ]
+}
